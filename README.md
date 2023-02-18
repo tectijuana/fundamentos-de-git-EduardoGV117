@@ -1,4 +1,7 @@
-![](image /Captura Evidencia.jpg)
+Mi evidencia de pase de archivo de local a Host
+
+
+![](https://github.com/tectijuana/fundamentos-de-git-EduardoGV117/Imagenes/Captura_Evidencia.jpg)
 
 # :wave: The Basics of GitHub 
 
